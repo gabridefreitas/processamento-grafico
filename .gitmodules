@@ -1,6 +1,0 @@
-[submodule "redes"]
-	path = redes
-	url = https://github.com/gabridefreitas/redes
-[submodule "sgbd"]
-	path = sgbd
-	url = https://github.com/gabridefreitas/sgbd
